@@ -1,0 +1,4 @@
+([actg]{2})\1{1,}
+([actg]{2})\1{2,}
+atg.*(tag|tga)
+atg.{3}(tag|tga)
